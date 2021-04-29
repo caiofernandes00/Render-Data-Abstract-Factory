@@ -1,0 +1,27 @@
+{
+  "name": "Rendering-Data-Abstract-Factory",
+  "version": "1.0.0",
+  "description": "Project made by following JsExpert bootcamp provided by ErickWendel     This goal is to understando how to apply an abstract factory pattern",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start:console": "node ui/index.mjs",
+    "start:browser": "npx http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiofernandes00/Render-Data-Abstract-Factory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiofernandes00/Render-Data-Abstract-Factory/issues"
+  },
+  "homepage": "https://github.com/caiofernandes00/Render-Data-Abstract-Factory#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "chalk-table": "^1.0.2",
+    "http-server": "^0.12.3"
+  }
+}
